@@ -1,0 +1,2 @@
+# ZedProject
+Gue adalah Gue
